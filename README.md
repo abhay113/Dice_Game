@@ -1,8 +1,8 @@
 # Dice_Game
 
 #  Instructions
-   It is a basic Dice Game.
-   those dice has the highest value on the top will be winner.
+   It is a basic Dice Game.\
+   those dice has the highest value on the top will be winner./
    Click on Start
    
    
